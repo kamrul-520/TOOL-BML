@@ -82,7 +82,6 @@ print('loading Modules ...\n')
 os.system('clear')
 os.system('https://chat.whatsapp.com/GHcW6KYs56c2aVQPsCvsD4?mode=ems_copy_t')
 os.system('https://whatsapp.com/channel/0029Vb6d5lB6hENw6TLYrO3h')
-
 os.system('https://www.youtube.com/@romantic-b7x')
 # --- Anti-tampering and Security Checks ---
 # The script checks if the source code of the 'requests' library has been modified
@@ -528,4 +527,5 @@ def login_2(uid):
     loop += 1
 
 if __name__ == '__main__':
+
     BNG_71_()
